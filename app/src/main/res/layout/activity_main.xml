@@ -15,11 +15,4 @@
         android:src="@drawable/dice_1"
         android:contentDescription="@string/roll" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="@string/roll"
-        android:id="@+id/roll_button"/>
-
 </LinearLayout>
